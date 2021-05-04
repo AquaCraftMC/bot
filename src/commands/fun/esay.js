@@ -16,7 +16,7 @@ module.exports = {
       message.delete({ timeout: 1 });
 
       let nomsgEmbed = new MessageEmbed()
-      .setTitle('Nothing to say?')
+      .setTitle('🤐 Nothing to say?')
       .setColor(EMBED_COLOR)
 
       if (!args.length)

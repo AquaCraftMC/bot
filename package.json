@@ -1,6 +1,6 @@
 {
-  "name": "securitybot",
-  "version": "0.0.1",
+  "name": "aquabot",
+  "version": "2.0.0-a1",
   "description": "The official bot for The HighSecurity Hub! Created and Hosted by Jackk#3018",
   "main": "./src/main.js",
   "scripts": {
